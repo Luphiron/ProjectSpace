@@ -7,6 +7,7 @@
 3 HAVE FUN!
 
 --DESCRIPTION--
+
 Control a spaceship and fight against space pirates who are cooperating with an unknown alien species.
 
 Destroy as many of them as you can before you die and set your personal highscore.
