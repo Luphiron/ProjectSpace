@@ -19,6 +19,10 @@ ProjectSpace is my first game available for others. It's still in early developm
 
 --FUTURE PLANS--
 
+Final name reveal
+
+Background  music
+
 Fight against big spaceships (Motherships) and travel to different solar systems
 
 Powerups: Enemies drop powerups e.g. stronger weapon types, health regen and more!
