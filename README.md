@@ -1,6 +1,6 @@
 --INSTALLATION--
 
-1 DOWNLOAD "ProjectSpaceV0.0.1.zip" ON GOOGLE DRIVE: https://drive.google.com/file/d/1RdZ841-ILHPJvqsrN6LLsXoyQV8ym7Ck/view?usp=sharing
+1 DOWNLOAD "ProjectSpaceV0.0.1.zip" ON https://luphiron.itch.io/projectspace
 
 2 EXTRACT .zip FILE AND START "ProjectSpace.exe"
 
